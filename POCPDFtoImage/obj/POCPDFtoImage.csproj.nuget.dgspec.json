@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\profe\\source\\repos\\Alessandro-Programming\\TestesPDFtoImage\\POCPDFtoImageV1\\POCPDFtoImage\\POCPDFtoImage.csproj": {}
+    "C:\\Users\\profe\\source\\repos\\Alessandro-Programming\\Repo solutions for image\\POCCropWindowsForms\\POCPDFtoImage\\POCPDFtoImage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\profe\\source\\repos\\Alessandro-Programming\\TestesPDFtoImage\\POCPDFtoImageV1\\POCPDFtoImage\\POCPDFtoImage.csproj": {
+    "C:\\Users\\profe\\source\\repos\\Alessandro-Programming\\Repo solutions for image\\POCCropWindowsForms\\POCPDFtoImage\\POCPDFtoImage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\profe\\source\\repos\\Alessandro-Programming\\TestesPDFtoImage\\POCPDFtoImageV1\\POCPDFtoImage\\POCPDFtoImage.csproj",
+        "projectUniqueName": "C:\\Users\\profe\\source\\repos\\Alessandro-Programming\\Repo solutions for image\\POCCropWindowsForms\\POCPDFtoImage\\POCPDFtoImage.csproj",
         "projectName": "POCPDFtoImage",
-        "projectPath": "C:\\Users\\profe\\source\\repos\\Alessandro-Programming\\TestesPDFtoImage\\POCPDFtoImageV1\\POCPDFtoImage\\POCPDFtoImage.csproj",
+        "projectPath": "C:\\Users\\profe\\source\\repos\\Alessandro-Programming\\Repo solutions for image\\POCCropWindowsForms\\POCPDFtoImage\\POCPDFtoImage.csproj",
         "packagesPath": "C:\\Users\\profe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\profe\\source\\repos\\Alessandro-Programming\\TestesPDFtoImage\\POCPDFtoImageV1\\POCPDFtoImage\\obj\\",
+        "outputPath": "C:\\Users\\profe\\source\\repos\\Alessandro-Programming\\Repo solutions for image\\POCCropWindowsForms\\POCPDFtoImage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

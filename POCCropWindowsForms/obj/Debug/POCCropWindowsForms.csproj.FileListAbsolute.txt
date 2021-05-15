@@ -48,3 +48,14 @@ C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCC
 C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csproj.CoreCompileInputs.cache
 C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.exe
 C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.pdb
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\System.Buffers.dll
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\System.Collections.Immutable.dll
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\System.Memory.dll
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\System.Buffers.xml
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\System.Collections.Immutable.xml
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\System.Memory.xml
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csproj.CopyComplete

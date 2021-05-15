@@ -41,6 +41,7 @@ namespace POCCropWindowsForms
             this.btnDiretorioSaida = new System.Windows.Forms.Button();
             this.BtnSaveImageToPDF = new System.Windows.Forms.Button();
             this.btnSelectCroppArea = new System.Windows.Forms.Button();
+            this.btnSaveImageCropped = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
@@ -95,7 +96,7 @@ namespace POCCropWindowsForms
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 22F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(709, 457);
+            this.label2.Location = new System.Drawing.Point(709, 494);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(178, 36);
             this.label2.TabIndex = 5;
@@ -154,11 +155,21 @@ namespace POCCropWindowsForms
             this.btnSelectCroppArea.UseVisualStyleBackColor = true;
             this.btnSelectCroppArea.Click += new System.EventHandler(this.btnSelectCroppArea_Click);
             // 
+            // btnSaveImageCropped
+            // 
+            this.btnSaveImageCropped.Location = new System.Drawing.Point(715, 457);
+            this.btnSaveImageCropped.Name = "btnSaveImageCropped";
+            this.btnSaveImageCropped.Size = new System.Drawing.Size(300, 34);
+            this.btnSaveImageCropped.TabIndex = 12;
+            this.btnSaveImageCropped.Text = "Salvar imagem";
+            this.btnSaveImageCropped.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1211, 607);
+            this.Controls.Add(this.btnSaveImageCropped);
             this.Controls.Add(this.btnSelectCroppArea);
             this.Controls.Add(this.BtnSaveImageToPDF);
             this.Controls.Add(this.textPathArquivoSaida);
@@ -195,6 +206,7 @@ namespace POCCropWindowsForms
         private System.Windows.Forms.Button btnDiretorioSaida;
         private System.Windows.Forms.Button BtnSaveImageToPDF;
         private System.Windows.Forms.Button btnSelectCroppArea;
+        private System.Windows.Forms.Button btnSaveImageCropped;
     }
 }
 

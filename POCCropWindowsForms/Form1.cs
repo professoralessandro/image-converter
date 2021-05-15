@@ -1,14 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Reflection.Metadata;
 using System.Security;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace POCCropWindowsForms
@@ -231,35 +224,6 @@ namespace POCCropWindowsForms
             pictureBox1.Image = (Image)bmp;
         }
 
-        protected void GerarPDF()
-        {
-            //Definindo tamanho do documento
-            Document document = new Document(new iTextSharp.text.Rectangle(3508, 2480),40,40,40,40);
-            
-            MemoryStream msDoc = new MemoryStream();
-            
-            //Criando documento
-            PdfWriter writer = PdfWriter.GetInstance(document, msDoc);
-            document.Open();
 
-            //Pegando localização da imagem
-            string localizacao = Server.MapPath("imagem.jpg");
-            
-            //Definindo resolução
-            iTextSharp.text.Image img = iTextSharp.text.Image.GetInstance(localizacao);
-            img.ScaleToFit(3428, 2400);
-            
-            IElement e = img;          
-            doc.Add(e);         
-            doc.Close();
-            
-            //Mandando a imagem para o navegador
-            Response.Clear();
-            Response.AddHeader("content-disposition", "attachment;filename=Arquivo.pdf");
-            Response.ContentType = "application/pdf";
-            Response.BinaryWrite(msDoc.ToArray());
-            Response.End(); 
-            
-        }
     }
 }

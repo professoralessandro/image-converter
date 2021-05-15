@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cpQ5bYiveAH12Hwl3qZXwf2/WDx4ep+jcANa2r8ldDVbxfXc8cMTHh4JfpHECPiYusqln+ec2CIprMEKp9e0Gg==",
+  "dgSpecHash": "2a4uSWqEJsTQEluzeKOGJTHwF2CwCtlW0rWkevLIDVlwXf9mLTD6crqgUxw3YuWUnypJ/p6RMAe2nyxBqqJELg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\profe\\source\\repos\\Alessandro-Programming\\TestesPDFtoImage\\POCPDFtoImageV1\\POCPDFtoImage\\POCPDFtoImage.csproj",
+  "projectFilePath": "C:\\Users\\profe\\source\\repos\\Alessandro-Programming\\Repo solutions for image\\POCCropWindowsForms\\POCPDFtoImage\\POCPDFtoImage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\profe\\.nuget\\packages\\bouncycastle\\1.8.6.1\\bouncycastle.1.8.6.1.nupkg.sha512",
     "C:\\Users\\profe\\.nuget\\packages\\itextsharp\\5.5.13.2\\itextsharp.5.5.13.2.nupkg.sha512"
