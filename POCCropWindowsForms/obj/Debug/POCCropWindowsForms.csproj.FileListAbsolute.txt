@@ -1,0 +1,50 @@
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV0\POCCropWindowsForms\bin\Debug\POCCropWindowsForms.exe.config
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV0\POCCropWindowsForms\bin\Debug\POCCropWindowsForms.exe
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV0\POCCropWindowsForms\bin\Debug\POCCropWindowsForms.pdb
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV0\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csprojAssemblyReference.cache
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV0\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.Form1.resources
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV0\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.Properties.Resources.resources
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV0\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csproj.GenerateResource.cache
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV0\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV0\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.exe
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV0\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.pdb
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV1\POCCropWindowsForms\bin\Debug\POCCropWindowsForms.exe.config
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV1\POCCropWindowsForms\bin\Debug\POCCropWindowsForms.exe
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV1\POCCropWindowsForms\bin\Debug\POCCropWindowsForms.pdb
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV1\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csprojAssemblyReference.cache
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV1\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.Form1.resources
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV1\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.Properties.Resources.resources
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV1\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csproj.GenerateResource.cache
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV1\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV1\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.exe
+C:\Users\profe\source\repos\TestesRecorte4\POCCropWindowsFormsV1\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.pdb
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsFormsV1\POCCropWindowsForms\bin\Debug\POCCropWindowsForms.exe.config
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsFormsV1\POCCropWindowsForms\bin\Debug\POCCropWindowsForms.exe
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsFormsV1\POCCropWindowsForms\bin\Debug\POCCropWindowsForms.pdb
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsFormsV1\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csprojAssemblyReference.cache
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsFormsV1\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.Form1.resources
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsFormsV1\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.Properties.Resources.resources
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsFormsV1\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csproj.GenerateResource.cache
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsFormsV1\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsFormsV1\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.exe
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsFormsV1\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.pdb
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\POCCropWindowsForms.exe.config
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\POCCropWindowsForms.exe
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\POCCropWindowsForms.pdb
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csprojAssemblyReference.cache
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.Form1.resources
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.Properties.Resources.resources
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csproj.GenerateResource.cache
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.exe
+C:\Users\profe\source\repos\Testes\Ok\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.pdb
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\POCCropWindowsForms.exe.config
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\POCCropWindowsForms.exe
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\bin\Debug\POCCropWindowsForms.pdb
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csprojAssemblyReference.cache
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.Form1.resources
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.Properties.Resources.resources
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csproj.GenerateResource.cache
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.exe
+C:\Users\profe\source\repos\Alessandro-Programming\Repo solutions for image\POCCropWindowsForms\POCCropWindowsForms\obj\Debug\POCCropWindowsForms.pdb
